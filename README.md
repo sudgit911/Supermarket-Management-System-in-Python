@@ -19,6 +19,7 @@ Welcome to the Supermarket Management System. This project is a simple command-l
 Run the script in a Python environment. The system will present a menu with options to choose from.
 
 *Menu Options
+
 1.View Items
 
 Displays the total number of items in the inventory.
