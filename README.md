@@ -1,14 +1,21 @@
 # Supermarket Management System
 Welcome to the Supermarket Management System. This project is a simple command-line application written in Python to manage a supermarket's inventory. The system allows users to view items, add items for sale, purchase items, search for items, and edit items in the inventory.
 
-Features
-View Items: Display all items currently available in the supermarket.
-Add Items: Add new items to the inventory with details like name, quantity, and price.
-Purchase Items: Purchase items by specifying the item name and quantity.
-Search Items: Search for an item in the inventory by its name.
-Edit Items: Edit the details of an existing item in the inventory.
-Exit: Exit the system.
-Usage
+# Features
+1.View Items: Display all items currently available in the supermarket.
+
+2.Add Items: Add new items to the inventory with details like name, quantity, and price.
+
+3.Purchase Items: Purchase items by specifying the item name and quantity.
+
+4.Search Items: Search for an item in the inventory by its name.
+
+5.Edit Items: Edit the details of an existing item in the inventory.
+
+6.Exit: Exit the system.
+
+# Usage
+
 Run the script in a Python environment. The system will present a menu with options to choose from.
 
 Menu Options
