@@ -18,36 +18,41 @@ Welcome to the Supermarket Management System. This project is a simple command-l
 
 Run the script in a Python environment. The system will present a menu with options to choose from.
 
-Menu Options
-View Items
+*Menu Options
+1.View Items
 
 Displays the total number of items in the inventory.
 Lists all available items with their details.
-Add Items
+
+2.Add Items
 
 Prompts the user to enter the item name, quantity, and price.
 Adds the item to the inventory.
-Purchase Items
+
+3.Purchase Items
 
 Lists all available items.
 Prompts the user to enter the item name and quantity they wish to purchase.
 Checks the availability and updates the inventory.
-Search Items
+
+4.Search Items
 
 Prompts the user to enter the item name to search.
 Displays the details of the item if found.
-Edit Items
+
+5.Edit Items
 
 Prompts the user to enter the item name to edit.
 Displays the current details and allows the user to update them.
-Exit
+
+6.Exit
 
 Exits the system.
 
-Requirements
+# Requirements
 Python 3.x
-Contributing
+# Contributing
 Feel free to submit issues or pull requests for any features, bugs, or improvements.
 
-License
+# License
 This project is licensed under the MIT License.
