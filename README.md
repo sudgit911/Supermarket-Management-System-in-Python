@@ -14,6 +14,10 @@ Welcome to the Supermarket Management System. This project is a simple command-l
 
 6.Exit: Exit the system.
 
+# Demo
+
+![Demo](images/supermarket.gif)
+
 # Usage
 
 Run the script in a Python environment. The system will present a menu with options to choose from.
