@@ -16,7 +16,7 @@ Welcome to the Supermarket Management System. This project is a simple command-l
 
 # Demo
 
-![Demo](images/supermarket.gif)
+![Demo](images/supermarket.png)
 
 # Usage
 
